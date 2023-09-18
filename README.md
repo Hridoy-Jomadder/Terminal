@@ -4,5 +4,5 @@
 3. cd ..(back)
 4. cd ***(File Name)
 5. php -v
-Clear(All Clear)
+6. Clear(All Clear)
 php ***(File Name)
