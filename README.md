@@ -1,2 +1,3 @@
 # Terminal
 Terminal Start
+dir
