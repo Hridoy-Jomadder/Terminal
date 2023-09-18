@@ -5,4 +5,4 @@
 4. cd ***(File Name)
 5. php -v
 6. Clear(All Clear)
-php ***(File Name)
+7. php ***(File Name)
