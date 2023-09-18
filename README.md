@@ -2,3 +2,4 @@
 Terminal Start
 dir
 cd ..(back)
+cd (File Name)
