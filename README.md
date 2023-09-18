@@ -4,3 +4,4 @@ dir
 cd ..(back)
 cd (File Name)
 php -v
+Clear(All Clear)
