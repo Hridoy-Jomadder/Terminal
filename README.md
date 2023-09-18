@@ -1,4 +1,4 @@
 # Terminal
 Terminal Start
 dir
-cd ..
+cd ..(back)
