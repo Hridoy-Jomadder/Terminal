@@ -1,4 +1,10 @@
 # Terminal
+pwd
+dir
+
+
+
+//VS Code
 1. Terminal Start
 2. dir
 3. cd ..(back)
