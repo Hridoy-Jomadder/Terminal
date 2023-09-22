@@ -1,6 +1,10 @@
 # Terminal
 pwd
 dir
+cd ..(back)
+cd ***(File Name)
+ls a
+
 
 
 
