@@ -2,6 +2,7 @@
 pwd
 dir
 cd ..(back)
+cd .add. (File Name)
 cd ***(File Name)
 ls a
 Start
